@@ -1,0 +1,8 @@
+.dsct-comments-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid var(--dsct-color-border-primary);
+  border-radius: 10px;
+  margin: 10px 0;
+}

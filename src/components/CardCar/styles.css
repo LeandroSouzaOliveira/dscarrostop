@@ -1,0 +1,19 @@
+.dsct-come-visit-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid var(--dsct-color-border-primary);
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+.dsct-come-visit-img {
+  height: 150px;
+}
+
+.dsct-come-visit-par {
+  color: var(--dsct-color-font-secondary);
+  font-size: 12px;
+  font-weight: bold;
+  padding-bottom: 8px;
+}

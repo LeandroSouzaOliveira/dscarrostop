@@ -1,0 +1,25 @@
+#dsct-come-visit {
+  padding: 10px 0;
+}
+
+#dsct-comments {
+  background-color: var(--dsct-color-bg-secondary);
+}
+
+.dsct-come-visit-container {
+  width: 100%;
+  max-width: 746px;
+  margin: 0 auto;
+}
+
+.dsct-title {
+  font-size: 16px;
+  color: var(--dsct-color-font-secondary);
+  text-align: center;
+}
+
+.dsct-comments-container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
