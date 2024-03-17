@@ -1,8 +1,12 @@
 .dsct-comments-items {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  background-color: var(--dsct-color-bg-tertiary);
   border: 1px solid var(--dsct-color-border-primary);
   border-radius: 10px;
-  margin: 10px 0;
+  margin: 10px;
+}
+
+.dsct-comments-par {
+  font-size: 14px;
+  color: var(--dsct-color-font-tertiary);
+  padding: 20px;
 }

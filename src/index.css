@@ -3,7 +3,7 @@
 :root {
   --dsct-color-bg-primary: #3C9AF0;
   --dsct-color-bg-secondary: #c8c8c8;
-  --dsct-color-bg-quartenary: #fff;
+  --dsct-color-bg-tertiary: #fff;
 
   --dsct-color-border-primary: #3C9AF0;
 
@@ -19,6 +19,14 @@
   font-family: 'Poppins', sans-serif;
 }
 
-main {
-  padding: 0 20px;
+a,
+a:hover {
+  text-decoration: none;
+  color: unset;
+}
+
+.dsct-container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
 }
