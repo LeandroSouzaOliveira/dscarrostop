@@ -3,7 +3,7 @@ import './styles.css';
 export default function Header() {
     return (
         <header>
-            <nav>
+            <nav className='dsct-header-title'>
                 <h1>DSCarrosTop</h1>
             </nav>
         </header>

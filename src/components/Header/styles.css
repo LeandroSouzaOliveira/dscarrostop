@@ -6,3 +6,13 @@ header {
   align-items: center;
   justify-content: center;
 }
+
+.dsct-header-title h1 {
+  font-size: 20px;
+}
+
+@media (min-width: 576px) {
+  .dsct-header-title h1 {
+    font-size: 24px;
+  }
+}

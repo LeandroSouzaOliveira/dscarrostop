@@ -2,6 +2,7 @@ footer {
   height: 120px;
   background-color: var(--dsct-color-bg-primary);
   color: var(--dsct-color-font-primary);
+  display: flex;
 }
 
 footer a {
@@ -13,4 +14,13 @@ footer a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+@media (min-width: 576px) {
+  .dsct-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+  }
 }
