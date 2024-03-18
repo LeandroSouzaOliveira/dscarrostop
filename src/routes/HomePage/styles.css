@@ -1,12 +1,10 @@
 #dsct-come-visit {
-  padding: 10px 0;
-  margin: 0 10px;
+  margin: 0 20px;
 }
 
 #dsct-comments {
   background-color: var(--dsct-color-bg-secondary);
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .dsct-come-visit-container {
@@ -19,6 +17,7 @@
   font-size: 16px;
   color: var(--dsct-color-font-secondary);
   text-align: center;
+  padding-top: 25px;
 }
 
 @media (min-width: 576px) {

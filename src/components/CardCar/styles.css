@@ -4,7 +4,8 @@
   align-items: center;
   border: 1px solid var(--dsct-color-border-primary);
   border-radius: 10px;
-  margin: 10px 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .dsct-come-visit-img {

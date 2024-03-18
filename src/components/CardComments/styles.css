@@ -2,11 +2,11 @@
   background-color: var(--dsct-color-bg-tertiary);
   border: 1px solid var(--dsct-color-border-primary);
   border-radius: 10px;
-  margin: 10px;
+  margin: 25px 20px;
 }
 
 .dsct-comments-par {
   font-size: 14px;
   color: var(--dsct-color-font-tertiary);
-  padding: 20px;
+  padding: 25px 20px;
 }
